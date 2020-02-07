@@ -88,7 +88,7 @@ body {
   font-style: normal;
   letter-spacing: 1px;
   margin: .4rem .8rem;
-  white-space: nowrap; /*hopefully this doesn't break anything */
+  white-space: normal;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
